@@ -1,8 +1,3 @@
-# Bucket Reports Static Site Generation 
+Bucket Reports Glossary.
 
-Using Vuepress to create the Bucket Reports glossary. Adrian you should:
-
-- Clone this repo
-- Edit `docs\Readme.md`
-- Learn more about the Markdown format for tables https://www.markdownguide.org/extended-syntax/#tables
-
+Allows staff to view a page within SOLID which provides some insights into what each of the provider status names mean.
