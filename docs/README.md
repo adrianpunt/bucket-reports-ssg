@@ -12,6 +12,15 @@ that's why **Adrian Punt** has created this glossary.
 | MFN      | Cancelled | The Order has been Cancelled on MFN Midbase (Portal) |
 | MFN      | Pending Activation | After ONT install the techniacian sends feedback to the Network Operations Center (NOC) Engineers |
 | MFN      | Scheduled ONT | MFN has made contact with client and ONT installation has been scheduled |
+| Andromedus, Darrow au | Leader     | Yes    |
+| Augustus, Victoria au | Accomplice | Yes    |
+| Augustus, Victoria au | Accomplice | Yes    |
+| Augustus, Victoria au | Accomplice | Yes    |
+| Augustus, Victoria au | Accomplice | Yes    |
+| Augustus, Victoria au | Accomplice | Yes    |
+| Augustus, Victoria au | Accomplice | Yes    |
+| Augustus, Victoria au | Accomplice | Yes    |
+| Augustus, Victoria au | Accomplice | Yes    |
 
 
 
