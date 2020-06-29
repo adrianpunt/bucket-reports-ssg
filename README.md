@@ -4,7 +4,8 @@ Bucket reports are excel documents that are received from Fibre providers on a r
 
 They include the status of the order together with comments. Sometimes these comments are somewhat obscure so we hope this Glossary helps.
 
-## MFN
+
+### MFN
 
 | Status                      | Description                                                                                                                 |
 | --------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
@@ -22,7 +23,8 @@ They include the status of the order together with comments. Sometimes these com
 | Immediate Cancellation      | When MWEB request that MFN cancel and release the fibre line Immediately                                                    |
 
 
-## Octotel
+
+### Octotel
 
 | Status                     | Description                                                               |
 | -------------------------- | ------------------------------------------------------------------------- |
@@ -40,7 +42,8 @@ They include the status of the order together with comments. Sometimes these com
 | Completed                  | Installation completed and the order can be activated                     |
 
 
-## Link Africa
+
+### Link Africa
 
 | Status            | Description                                                             |
 | ----------------- | ----------------------------------------------------------------------- |
