@@ -25,7 +25,7 @@ They include the status of the order together with comments. Sometimes these com
 ## Octotel
 
 | Status                     | Description                                                               |
-| -------------------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| -------------------------- | ------------------------------------------------------------------------- |
 | Awaiting Migration         | Waiting on Octotel to complete the migration request on their side        |
 | Awaiting Reconnect         | Exisiting installation                                                    |
 | Awaiting Provisioning      | Octotel configuring of ONT                                                |
@@ -34,7 +34,7 @@ They include the status of the order together with comments. Sometimes these com
 | Pending Access Build       | Pending approval from body Corp but the Build in progress into site.      |
 | Pending Landowner Consent  | Pending approval from body Corp of the building to allow installations    |
 | Pending Network Coverage   | Amber                                                                     |
-| Production                 | installation completed but splicing still needs to be done in the manhole or unable to reach client for installation or client doesn’t want conduits on the wall. | |
+| Production                 | installation completed but splicing still needs to be done in the manhole or unable to reach client for installation or client doesn’t want conduits on the wall. 
 | Road Block                 | Permission denied by Body Corp for Octotel to do Installation             |
 | Install Pre Live           | Fibre has been installed but outside fibre network needs to be completed  |
 | Completed                  | Installation completed and the order can be activated                     |
